@@ -1,4 +1,4 @@
-# aws-infrasctructure-with-ansible  
+# aws-infrastructure-with-ansible  
 ## creation of an AWS infrastructure using Ansible configuration tool    
 
 This is an ansible playbook that creates a custom VPC in AWS with private EC2 instances, a NAT instance to route internet access to instances and a load balancer
